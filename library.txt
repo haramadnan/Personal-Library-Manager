@@ -1,0 +1,1 @@
+[{"title": "Harry Potter", "author": "J.K. Rowling", "year": "1997", "genre": "Fantasy", "read": true}, {"title": "Haram Adnan", "author": "Chemistry World", "year": "2025", "genre": "", "read": true}, {"title": "Laiba Adnan", "author": "Psychology of Humans", "year": "2024", "genre": "Mystery", "read": true}]
